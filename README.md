@@ -1,5 +1,7 @@
 This is a simple implementation of the classic Tic-Tac-Toe game built with React and XState for state management. The game allows two players to take turns marking the squares in a 3x3 grid.
 
+Click the link to see [DEMO LINK](https://katekashuba.github.io/tic-tac-toe/).
+
 
 # Installation
 ## To run the project locally, follow these steps:
